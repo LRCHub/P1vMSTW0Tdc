@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ワンダラー / Ayase (Instrumental)",
+  "base_artist": "n",
+  "createdAt": "2025-12-03T08:35:35.781508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ワンダラー",
+      "artist": "NoisyCell",
+      "has_synced": true,
+      "path": "select/01_ワンダラー_NoisyCell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ワンダラー",
+      "artist": "さとみ",
+      "has_synced": true,
+      "path": "select/02_ワンダラー_さとみ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wonderer",
+      "artist": "Nothing's Carved In Stone",
+      "has_synced": false,
+      "path": "select/pl_01_Wonderer_Nothing's_Carved_In_Stone.txt"
+    }
+  ]
+}
